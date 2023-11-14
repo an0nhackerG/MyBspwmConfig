@@ -1,0 +1,32 @@
+2023-10-04 03:31:15.946 [info] Log level: Info
+2023-10-04 03:31:15.946 [info] Validating found git in: "git"
+2023-10-04 03:31:15.946 [info] Using git "2.42.0" from "git"
+2023-10-04 03:31:15.946 [info] > git rev-parse --show-toplevel [3ms]
+2023-10-04 03:31:15.946 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-04 03:31:51.306 [info] Log level: Info
+2023-10-04 03:31:51.306 [info] Validating found git in: "git"
+2023-10-04 03:31:51.306 [info] Using git "2.42.0" from "git"
+2023-10-04 03:31:51.311 [info] > git rev-parse --show-toplevel [18ms]
+2023-10-04 03:31:57.980 [info] > git rev-parse --show-toplevel [2ms]
+2023-10-04 03:34:59.151 [info] Log level: Info
+2023-10-04 03:34:59.151 [info] Validating found git in: "git"
+2023-10-04 03:34:59.151 [info] Using git "2.42.0" from "git"
+2023-10-04 03:34:59.151 [info] > git rev-parse --show-toplevel [4ms]
+2023-10-04 03:34:59.160 [info] > git rev-parse --show-toplevel [3ms]
+2023-10-04 03:34:59.251 [info] > git rev-parse --show-toplevel [2ms]
+2023-10-04 03:34:59.393 [info] > git rev-parse --show-toplevel [1ms]
+2023-10-04 03:36:09.466 [info] > git rev-parse --show-toplevel [6ms]
+2023-10-04 04:09:06.832 [info] > git rev-parse --show-toplevel [6ms]
+2023-10-04 04:09:07.322 [info] > git rev-parse --show-toplevel [2ms]
+2023-10-04 04:09:12.029 [info] > git rev-parse --show-toplevel [3ms]
+2023-10-04 04:09:12.193 [info] > git rev-parse --show-toplevel [5ms]
+2023-10-04 04:09:42.378 [info] > git rev-parse --show-toplevel [1ms]
+2023-10-04 04:09:44.318 [info] > git rev-parse --show-toplevel [2ms]
+2023-10-04 04:09:55.820 [info] > git rev-parse --show-toplevel [13ms]
+2023-10-04 04:09:57.964 [info] > git rev-parse --show-toplevel [2ms]
+2023-10-04 04:10:00.340 [info] > git rev-parse --show-toplevel [3ms]
+2023-10-04 04:10:25.466 [info] > git rev-parse --show-toplevel [4ms]
+2023-10-04 04:11:19.280 [info] > git rev-parse --show-toplevel [4ms]
+2023-10-04 04:11:19.911 [info] > git rev-parse --show-toplevel [4ms]
+2023-10-04 04:30:06.734 [info] > git rev-parse --show-toplevel [2ms]
+2023-10-04 04:31:28.206 [info] > git rev-parse --show-toplevel [3ms]

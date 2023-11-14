@@ -1,0 +1,43 @@
+2023-10-30 16:31:07.287 [info] Log level: Info
+2023-10-30 16:31:07.287 [info] Validating found git in: "git"
+2023-10-30 16:31:07.287 [info] Using git "2.42.0" from "git"
+2023-10-30 16:31:07.287 [info] > git rev-parse --show-toplevel [2ms]
+2023-10-30 16:31:07.287 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-30 16:32:12.280 [info] > git rev-parse --show-toplevel [3ms]
+2023-10-30 16:32:12.285 [info] > git rev-parse --git-dir --git-common-dir [2ms]
+2023-10-30 16:32:12.292 [info] Open repository: /home/Luna/programing/work/killprocess
+2023-10-30 16:32:12.300 [info] > git config --get commit.template [2ms]
+2023-10-30 16:32:12.305 [info] No remotes found in the git config file.
+2023-10-30 16:32:12.306 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-10-30 16:32:12.311 [info] > git status -z -uall [2ms]
+2023-10-30 16:32:12.327 [info] > git config --get commit.template [2ms]
+2023-10-30 16:32:12.333 [info] No remotes found in the git config file.
+2023-10-30 16:32:12.335 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-10-30 16:32:12.339 [info] > git status -z -uall [2ms]
+2023-10-30 16:32:12.849 [info] > git check-ignore -v -z --stdin [2ms]
+2023-10-30 16:32:16.152 [info] > git show --textconv :Cargo.toml [8ms]
+2023-10-30 16:32:16.153 [info] > git ls-files --stage -- /home/Luna/programing/work/killprocess/Cargo.toml [4ms]
+2023-10-30 16:33:12.477 [info] > git check-ignore -v -z --stdin [40ms]
+2023-10-30 16:33:12.580 [info] > git show --textconv :src/main.rs [4ms]
+2023-10-30 16:33:12.730 [info] > git ls-files --stage -- /home/Luna/programing/work/killprocess/src/main.rs [150ms]
+2023-10-30 16:33:14.085 [info] > git check-ignore -v -z --stdin [1ms]
+2023-10-30 16:33:14.986 [info] No remotes found in the git config file.
+2023-10-30 16:33:14.986 [info] > git config --get commit.template [4ms]
+2023-10-30 16:33:14.987 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-10-30 16:33:14.992 [info] > git status -z -uall [2ms]
+2023-10-30 16:33:50.780 [info] No remotes found in the git config file.
+2023-10-30 16:33:50.780 [info] > git config --get commit.template [59ms]
+2023-10-30 16:33:50.793 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [14ms]
+2023-10-30 16:33:50.799 [info] > git status -z -uall [2ms]
+2023-10-30 16:33:55.811 [info] No remotes found in the git config file.
+2023-10-30 16:33:55.812 [info] > git config --get commit.template [7ms]
+2023-10-30 16:33:55.812 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-10-30 16:33:55.821 [info] > git status -z -uall [5ms]
+2023-10-30 16:34:00.828 [info] No remotes found in the git config file.
+2023-10-30 16:34:00.832 [info] > git config --get commit.template [5ms]
+2023-10-30 16:34:00.833 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-10-30 16:34:00.838 [info] > git status -z -uall [2ms]
+2023-10-30 16:34:42.975 [info] No remotes found in the git config file.
+2023-10-30 16:34:42.975 [info] > git config --get commit.template [4ms]
+2023-10-30 16:34:42.976 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-10-30 16:34:42.980 [info] > git status -z -uall [2ms]

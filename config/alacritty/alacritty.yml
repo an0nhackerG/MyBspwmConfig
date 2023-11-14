@@ -1,0 +1,40 @@
+window:
+  opacity: 0.85
+  padding:
+    x: 25
+
+font:
+  normal:
+    family: 'Fira Code'
+    style: Regular
+  size: 14.0
+colors:
+  primary:
+    background: '#000000'
+    foreground: '#FFFFFF'
+
+  # Normal Colours
+  normal:
+    black:   '#1a1a1a'
+    red:     '#f4005f'
+    green:   '#00e92a'
+    yellow:  '#fa8419'
+    blue:    '#9d65ff'
+    magenta: '#f4005f'
+    cyan:    '#58d1eb'
+    white:   '#c4c5b5'
+
+  # Bright Colours
+  bright:
+    black:   '#625e4c'
+    red:     '#f4005f'
+    green:   '#00e92a'
+    yellow:  '#e0d561'
+    blue:    '#9d65ff'
+    magenta: '#f4005f'
+    cyan:    '#58d1eb'
+    white:   '#f6f6ef'
+
+cursor:
+  style:
+    shape: Underline

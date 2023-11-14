@@ -1,0 +1,18 @@
+/*
+object-assign
+(c) Sindre Sorhus
+@license MIT
+*/
+
+/*!
+ * The buffer module from node.js, for the browser.
+ *
+ * @author   Feross Aboukhadijeh <feross@feross.org> <http://feross.org>
+ * @license  MIT
+ */
+
+/*! http://mths.be/base64 v0.1.0 by @mathias | MIT license */
+
+/*! http://mths.be/fromcodepoint v0.1.0 by @mathias */
+
+/*! https://mths.be/punycode v1.3.2 by @mathias */

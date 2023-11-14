@@ -1,0 +1,16 @@
+2023-10-04 04:50:49.885 [info] Configuration changed
+2023-10-04 04:50:50.064 [info] Configuration changed
+2023-10-04 04:53:34.268 [info] /home/Luna/.cargo/registry/src/index.crates.io-6f17d22bba15001f/exacl-0.11.0/src/aclentry.rs closed
+2023-10-04 04:53:35.516 [info] /home/Luna/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/src/rust/library/core/src/result.rs closed
+2023-10-04 04:53:41.077 [info] /home/Luna/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/src/rust/library/alloc/src/vec/mod.rs closed
+2023-10-04 04:53:44.863 [info] /home/Luna/.cargo/registry/src/index.crates.io-6f17d22bba15001f/exacl-0.11.0/src/aclentry.rs closed
+2023-10-04 04:53:48.108 [info] /home/Luna/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/src/rust/library/std/src/io/error.rs closed
+2023-10-04 04:53:53.976 [info] /home/Luna/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/src/rust/library/std/src/io/error.rs closed
+2023-10-04 05:15:23.888 [info] Active editor: output:extension-output-rust-lang.rust-analyzer-%233-Rust%20Analyzer%20Language%20Server
+2023-10-04 05:18:55.451 [info] Active editor: file:///home/Luna/programing/work/acl_tests/src/main.rs
+2023-10-04 13:02:08.283 [info] Executing :q
+2023-10-04 13:02:10.038 [info] Executing :w
+2023-10-04 13:02:10.596 [info] Executing :q
+2023-10-04 13:02:10.633 [info] /home/Luna/programing/work/acl_tests/src/main.rs closed
+2023-10-04 13:02:10.634 [warning] getLineLength() called with out-of-bounds line 8
+2023-10-04 13:02:10.634 [warning] getLineLength() called with out-of-bounds line 8

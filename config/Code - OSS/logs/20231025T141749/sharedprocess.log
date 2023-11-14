@@ -1,0 +1,40 @@
+2023-10-25 14:17:59.030 [info] Getting Manifest... enkia.tokyo-night
+2023-10-25 14:17:59.047 [info] Getting Manifest... formulahendry.code-runner
+2023-10-25 14:17:59.048 [info] Getting Manifest... ms-python.python
+2023-10-25 14:17:59.049 [info] Getting Manifest... rust-lang.rust-analyzer
+2023-10-25 14:17:59.050 [info] Getting Manifest... vscodevim.vim
+2023-10-25 14:18:00.715 [info] Installing extension: formulahendry.code-runner
+2023-10-25 14:18:00.716 [info] Installing extension: enkia.tokyo-night
+2023-10-25 14:18:01.039 [info] Installing extension: vscodevim.vim
+2023-10-25 14:18:01.307 [info] Installing extension: ms-python.python
+2023-10-25 14:18:01.435 [info] Installing extension: rust-lang.rust-analyzer
+2023-10-25 14:18:05.018 [info] Extension signature verification is not done: enkia.tokyo-night
+2023-10-25 14:18:05.153 [info] Extension signature verification is not done: formulahendry.code-runner
+2023-10-25 14:18:05.221 [info] Extracted extension to file:///home/Luna/.vscode-oss/extensions/enkia.tokyo-night-1.0.5-universal: enkia.tokyo-night
+2023-10-25 14:18:05.304 [info] Renamed to /home/Luna/.vscode-oss/extensions/enkia.tokyo-night-1.0.5-universal
+2023-10-25 14:18:05.345 [info] Extracting extension completed. enkia.tokyo-night
+2023-10-25 14:18:05.420 [info] Extension installed successfully: enkia.tokyo-night
+2023-10-25 14:18:05.512 [info] Marked extension as uninstalled enkia.tokyo-night-1.0.3-universal
+2023-10-25 14:18:05.683 [info] Extension signature verification is not done: vscodevim.vim
+2023-10-25 14:18:07.454 [info] Extracted extension to file:///home/Luna/.vscode-oss/extensions/vscodevim.vim-1.26.2-universal: vscodevim.vim
+2023-10-25 14:18:07.479 [info] Renamed to /home/Luna/.vscode-oss/extensions/vscodevim.vim-1.26.2-universal
+2023-10-25 14:18:07.514 [info] Extracting extension completed. vscodevim.vim
+2023-10-25 14:18:07.550 [info] Extension installed successfully: vscodevim.vim
+2023-10-25 14:18:07.568 [info] Marked extension as uninstalled vscodevim.vim-1.26.0-universal
+2023-10-25 14:18:07.766 [info] Extracted extension to file:///home/Luna/.vscode-oss/extensions/formulahendry.code-runner-0.12.1-universal: formulahendry.code-runner
+2023-10-25 14:18:07.772 [info] Renamed to /home/Luna/.vscode-oss/extensions/formulahendry.code-runner-0.12.1-universal
+2023-10-25 14:18:07.773 [info] Extracting extension completed. formulahendry.code-runner
+2023-10-25 14:18:07.953 [info] Extension installed successfully: formulahendry.code-runner
+2023-10-25 14:18:07.960 [info] Marked extension as uninstalled formulahendry.code-runner-0.12.0-universal
+2023-10-25 14:18:14.600 [info] Extension signature verification is not done: rust-lang.rust-analyzer
+2023-10-25 14:18:17.449 [info] Extracted extension to file:///home/Luna/.vscode-oss/extensions/rust-lang.rust-analyzer-0.3.1705-linux-x64: rust-lang.rust-analyzer
+2023-10-25 14:18:17.467 [info] Renamed to /home/Luna/.vscode-oss/extensions/rust-lang.rust-analyzer-0.3.1705-linux-x64
+2023-10-25 14:18:17.504 [info] Extracting extension completed. rust-lang.rust-analyzer
+2023-10-25 14:18:17.552 [info] Extension installed successfully: rust-lang.rust-analyzer
+2023-10-25 14:18:17.578 [info] Marked extension as uninstalled rust-lang.rust-analyzer-0.3.1681-linux-x64
+2023-10-25 14:18:18.468 [info] Extension signature verification is not done: ms-python.python
+2023-10-25 14:18:34.321 [info] Extracted extension to file:///home/Luna/.vscode-oss/extensions/ms-python.python-2023.18.0-universal: ms-python.python
+2023-10-25 14:18:34.334 [info] Renamed to /home/Luna/.vscode-oss/extensions/ms-python.python-2023.18.0-universal
+2023-10-25 14:18:34.352 [info] Extracting extension completed. ms-python.python
+2023-10-25 14:18:34.447 [info] Extension installed successfully: ms-python.python
+2023-10-25 14:18:34.473 [info] Marked extension as uninstalled ms-python.python-2023.16.0-universal

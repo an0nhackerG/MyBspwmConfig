@@ -1,0 +1,20 @@
+2023-10-30 16:31:07.612 [info] Deleted uninstalled extension from disk enkia.tokyo-night /home/Luna/.vscode-oss/extensions/enkia.tokyo-night-1.0.3-universal
+2023-10-30 16:31:07.655 [info] Deleted uninstalled extension from disk vscodevim.vim /home/Luna/.vscode-oss/extensions/vscodevim.vim-1.26.0-universal
+2023-10-30 16:31:07.734 [info] Deleted uninstalled extension from disk rust-lang.rust-analyzer /home/Luna/.vscode-oss/extensions/rust-lang.rust-analyzer-0.3.1681-linux-x64
+2023-10-30 16:31:07.776 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/Luna/.vscode-oss/extensions/vscodevim.vim-1.26.0-universal.6dcfbc97.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/Luna/.vscode-oss/extensions/vscodevim.vim-1.26.0-universal.6dcfbc97.vsctmp'
+    at n.create (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:34:30248)
+    at i (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:34:30364)
+    at t.ab (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:39:35344)
+    at t.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:39:28004)
+    at async w.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:39:15546)
+    at async X.pb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:92:9372)
+2023-10-30 16:31:07.802 [info] Deleted uninstalled extension from disk formulahendry.code-runner /home/Luna/.vscode-oss/extensions/formulahendry.code-runner-0.12.0-universal
+2023-10-30 16:31:08.019 [info] Deleted uninstalled extension from disk ms-python.python /home/Luna/.vscode-oss/extensions/ms-python.python-2023.16.0-universal
+2023-10-30 16:31:12.250 [info] Getting Manifest... rust-lang.rust-analyzer
+2023-10-30 16:31:14.243 [info] Installing extension: rust-lang.rust-analyzer
+2023-10-30 16:31:21.444 [info] Extension signature verification is not done: rust-lang.rust-analyzer
+2023-10-30 16:31:22.572 [info] Extracted extension to file:///home/Luna/.vscode-oss/extensions/rust-lang.rust-analyzer-0.3.1713-linux-x64: rust-lang.rust-analyzer
+2023-10-30 16:31:22.589 [info] Renamed to /home/Luna/.vscode-oss/extensions/rust-lang.rust-analyzer-0.3.1713-linux-x64
+2023-10-30 16:31:22.592 [info] Extracting extension completed. rust-lang.rust-analyzer
+2023-10-30 16:31:22.622 [info] Extension installed successfully: rust-lang.rust-analyzer
+2023-10-30 16:31:22.627 [info] Marked extension as uninstalled rust-lang.rust-analyzer-0.3.1705-linux-x64

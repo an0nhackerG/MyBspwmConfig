@@ -1,0 +1,22 @@
+2023-10-04 03:35:03.369 [info] Getting Manifest... enkia.tokyo-night
+2023-10-04 03:35:04.863 [info] Installing extension: enkia.tokyo-night
+2023-10-04 03:35:07.110 [info] Extension signature verification is not done: enkia.tokyo-night
+2023-10-04 03:35:07.162 [info] Extracted extension to file:///home/Luna/.vscode-oss/extensions/enkia.tokyo-night-1.0.3-universal: enkia.tokyo-night
+2023-10-04 03:35:07.175 [info] Renamed to /home/Luna/.vscode-oss/extensions/enkia.tokyo-night-1.0.3-universal
+2023-10-04 03:35:07.177 [info] Extracting extension completed. enkia.tokyo-night
+2023-10-04 03:35:07.197 [info] Extension installed successfully: enkia.tokyo-night
+2023-10-04 03:35:07.202 [info] Marked extension as uninstalled enkia.tokyo-night-1.0.2-universal
+2023-10-04 04:09:35.660 [info] Getting Manifest... dracula-theme.theme-dracula
+2023-10-04 04:09:36.149 [info] Installing extension: dracula-theme.theme-dracula
+2023-10-04 04:09:40.332 [info] Extension signature verification is not done: dracula-theme.theme-dracula
+2023-10-04 04:09:40.353 [info] Extracted extension to file:///home/Luna/.vscode-oss/extensions/dracula-theme.theme-dracula-2.24.2-universal: dracula-theme.theme-dracula
+2023-10-04 04:09:40.367 [info] Renamed to /home/Luna/.vscode-oss/extensions/dracula-theme.theme-dracula-2.24.2-universal
+2023-10-04 04:09:40.369 [info] Extracting extension completed. dracula-theme.theme-dracula
+2023-10-04 04:09:40.382 [info] Extension installed successfully: dracula-theme.theme-dracula
+2023-10-04 04:11:15.325 [info] Getting Manifest... daltonmenezes.aura-theme
+2023-10-04 04:11:15.493 [info] Installing extension: daltonmenezes.aura-theme
+2023-10-04 04:11:16.715 [info] Extension signature verification is not done: daltonmenezes.aura-theme
+2023-10-04 04:11:16.736 [info] Extracted extension to file:///home/Luna/.vscode-oss/extensions/daltonmenezes.aura-theme-2.1.2-universal: daltonmenezes.aura-theme
+2023-10-04 04:11:16.748 [info] Renamed to /home/Luna/.vscode-oss/extensions/daltonmenezes.aura-theme-2.1.2-universal
+2023-10-04 04:11:16.750 [info] Extracting extension completed. daltonmenezes.aura-theme
+2023-10-04 04:11:16.765 [info] Extension installed successfully: daltonmenezes.aura-theme

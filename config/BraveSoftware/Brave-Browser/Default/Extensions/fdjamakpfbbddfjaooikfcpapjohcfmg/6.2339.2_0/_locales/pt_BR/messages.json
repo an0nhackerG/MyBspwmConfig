@@ -1,0 +1,17 @@
+{
+   "ExtensionExtraShortDescription": {
+      "message": "Guarde todas as suas senhas, preencha formulários rapidamente e mantenha os seus dados acessíveis e protegidos."
+   },
+   "ExtensionLongDescription": {
+      "message": "\nA Dashlane é mais do que um gerenciador de senhas: é a maneira mais rápida e prática de usar a internet. Nossa extensão oferece uma integração perfeita com suas atividades online, permitindo salvar e preencher suas senhas e informações pessoais a qualquer momento.\n\nAcesse todas as suas senhas em qualquer lugar \n\n - Salve suas senhas e informações pessoais enquanto navega\n- Armazene senhas ilimitadas e acesse-as de qualquer lugar\n- Sincronize dados na Dashlane em todos seus dispositivos automaticamente, mesmo que o seu celular e o seu computador tenham sistemas operacionais diferentes\n- Gere e salve senhas fortes com um clique\n- Crie senhas seguras e exclusivas para cada uma de suas contas\n\nFaça login automaticamente\n\n- Preencha automaticamente o nome de usuário e senha em todas as suas contas\n- Preencha endereços e outros campos de formulários com apenas um clique\n- Finalize suas compras rapidamente sem ter que procurar números de cartões de crédito\n\nCriada especialmente para proteger sua privacidade\n\n- A Dashlane usa os melhores métodos de criptografia patenteada do mercado para proteger suas senhas\n- Escolha a forma de armazenamento dos seus dados: somente local ou sincronizado e com backup na nuvem\n\nNão queremos os seus dados \n\n- Acreditamos que é você quem deve controlar seus próprios dados. É por isso que, na Dashlane, projetamos tudo de forma que nunca poderemos acessar as suas informações. E jamais iremos vendê-las.\n- Outras empresas não armazenam seus dados com segurança porque não é o foco delas. Na Dashlane, é exatamente o que fazemos.\n\nPara mais informações sobre a Dashlane, veja nossa Política de Privacidade (https://www.dashlane.com/privacy) e Termos de Serviço (https://www.dashlane.com/terms)."
+   },
+   "ExtensionName": {
+      "message": "Dashlane - Gerenciador de senhas"
+   },
+   "ExtensionNameEarlyAccess": {
+      "message": "Dashlane"
+   },
+   "ExtensionShortDescription": {
+      "message": "A Dashlane deixa a internet mais prática. Salve todas as suas senhas, preencha formulários rapidamente e mantenha seus dados acessíveis e protegidos."
+   }
+}

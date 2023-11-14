@@ -1,0 +1,16 @@
+2023-10-04 04:50:49.113 [info] Extension host with pid 20351 started
+2023-10-04 04:50:49.113 [info] Skipping acquiring lock for /home/Luna/.config/Code - OSS/User/workspaceStorage/50a99bcaacb0a853f792bc86befac0a2.
+2023-10-04 04:50:49.303 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-10-04 04:50:49.307 [info] ExtensionService#_doActivateExtension rust-lang.rust-analyzer, startup: false, activationEvent: 'onLanguage:rust'
+2023-10-04 04:50:49.647 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-10-04 04:50:49.650 [info] ExtensionService#_doActivateExtension vscodevim.vim, startup: true, activationEvent: '*'
+2023-10-04 04:50:49.711 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-10-04 04:50:49.724 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-10-04 04:50:49.874 [info] Eager extensions activated
+2023-10-04 04:50:49.894 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-10-04 04:50:49.895 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-10-04 04:50:49.900 [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onStartupFinished'
+2023-10-04 13:02:10.634 [warning] TextEditor is closed/disposed
+2023-10-04 13:02:10.634 [warning] TextEditor is closed/disposed
+2023-10-04 13:02:10.742 [warning] ExtHostTextEditorOptions 'setCursorStyle' failed:'
+2023-10-04 13:02:10.742 [warning] TextEditor(vs.editor.ICodeEditor:1,$model1) has been disposed

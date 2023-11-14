@@ -1,0 +1,6 @@
+2023/11/14-01:53:36.553 3 Reusing MANIFEST /home/Luna/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/MANIFEST-000001
+2023/11/14-01:53:36.648 3 Recovering log #182
+2023/11/14-01:53:36.654 3 Reusing old log /home/Luna/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/000182.log 
+2023/11/14-03:18:48.871 3 Level-0 table #186: started
+2023/11/14-03:18:48.875 3 Level-0 table #186: 19420 bytes OK
+2023/11/14-03:18:48.880 3 Delete type=0 #182

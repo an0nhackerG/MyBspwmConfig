@@ -1,0 +1,159 @@
+2023-10-25 14:17:51.650 [info] Extension host with pid 2989 started
+2023-10-25 14:17:51.650 [info] Skipping acquiring lock for /home/Luna/.config/Code - OSS/User/workspaceStorage/3cc464bb8e346b872fcf639cac5edc39.
+2023-10-25 14:17:51.773 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-10-25 14:17:51.776 [info] ExtensionService#_doActivateExtension vscodevim.vim, startup: true, activationEvent: '*'
+2023-10-25 14:17:52.160 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-10-25 14:17:52.201 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-10-25 14:17:52.390 [info] ExtensionService#_doActivateExtension rust-lang.rust-analyzer, startup: true, activationEvent: 'workspaceContains:*/Cargo.toml,*/rust-project.json'
+2023-10-25 14:17:53.177 [info] Eager extensions activated
+2023-10-25 14:17:53.207 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-10-25 14:17:53.225 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-10-25 14:17:53.268 [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onStartupFinished'
+2023-10-25 14:20:19.408 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-10-25 14:20:30.271 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-10-25 14:20:30.288 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-10-25 15:45:02.408 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python'
+2023-10-25 15:45:02.726 [info] ExtensionService#_doActivateExtension njpwerner.autodocstring, startup: false, activationEvent: 'onLanguage:python'
+2023-10-25 15:45:04.117 [error] Error: Extension 'ms-python.python' CANNOT use API proposal: testObserver.
+Its package.json#enabledApiProposals-property declares:  but NOT testObserver.
+ The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api ms-python.python
+	at k (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:105:70089)
+	at get testResults [as testResults] (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:122:23648)
+	at w.activate (/home/Luna/.vscode-oss/extensions/ms-python.python-2023.16.0-universal/out/client/extension.js:2:819803)
+	at /home/Luna/.vscode-oss/extensions/ms-python.python-2023.16.0-universal/out/client/extension.js:2:2386
+	at Array.map (<anonymous>)
+	at g.activateWorkspace (/home/Luna/.vscode-oss/extensions/ms-python.python-2023.16.0-universal/out/client/extension.js:2:2376)
+2023-10-25 16:15:12.277 [warning] TextEditor is closed/disposed
+2023-10-25 16:15:12.277 [warning] TextEditor is closed/disposed
+2023-10-25 16:15:12.332 [warning] ExtHostTextEditorOptions 'setCursorStyle' failed:'
+2023-10-25 16:15:12.332 [warning] TextEditor(vs.editor.ICodeEditor:1,$model67) has been disposed
+2023-10-25 16:15:14.075 [warning] TextEditor is closed/disposed
+2023-10-25 16:15:14.075 [warning] TextEditor is closed/disposed
+2023-10-25 16:15:14.131 [warning] ExtHostTextEditorOptions 'setCursorStyle' failed:'
+2023-10-25 16:15:14.131 [warning] TextEditor(vs.editor.ICodeEditor:1,$model47) has been disposed
+2023-10-25 16:15:14.818 [warning] TextEditor is closed/disposed
+2023-10-25 16:15:14.818 [warning] TextEditor is closed/disposed
+2023-10-25 16:15:14.854 [warning] ExtHostTextEditorOptions 'setCursorStyle' failed:'
+2023-10-25 16:15:14.854 [warning] TextEditor(vs.editor.ICodeEditor:1,$model49) has been disposed
+2023-10-25 16:15:21.680 [warning] TextEditor is closed/disposed
+2023-10-25 16:15:21.680 [warning] TextEditor is closed/disposed
+2023-10-25 16:15:21.772 [warning] ExtHostTextEditorOptions 'setCursorStyle' failed:'
+2023-10-25 16:15:21.772 [warning] TextEditor(vs.editor.ICodeEditor:1,$model1) has been disposed
+2023-10-25 16:15:27.728 [info] Extension host terminating: renderer closed the MessagePort
+2023-10-25 16:15:27.753 [error] Canceled: Canceled
+	at new h (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:107:57382)
+	at i.O (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:116:10850)
+	at j.<computed>.T.charCodeAt.j.<computed> (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:116:8289)
+	at r.g (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:107:82208)
+	at r.executeCommand (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:107:81646)
+	at u.registerCommand.description (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:107:80967)
+	at r.h (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:107:82744)
+	at r.g (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:107:81739)
+	at r.executeCommand (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:107:81646)
+	at Object.executeCommand (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:122:21247)
+	at n.D [as value] (/usr/lib/code/extensions/git/dist/main.js:2:1309000)
+	at m.w (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:1902)
+	at m.x (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:1972)
+	at m.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:2188)
+	at Object.m [as dispose] (/usr/lib/code/extensions/git/dist/main.js:2:1324784)
+	at /usr/lib/code/extensions/git/dist/main.js:2:1329625
+	at Array.forEach (<anonymous>)
+	at g.dispose (/usr/lib/code/extensions/git/dist/main.js:2:1329611)
+	at E.<anonymous> (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:103:3484)
+	at E.dispose (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:103:3581)
+	at E.<anonymous> (/usr/lib/code/extensions/git/dist/main.js:2:1311012)
+	at E.dispose (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:103:3581)
+	at k (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:13:11730)
+	at n.Z (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:118:9652)
+	at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:118:7585
+	at Array.map (<anonymous>)
+	at n.S (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:118:7572)
+	at n.terminate (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:118:7844)
+	at o.terminate (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:122:1513)
+	at D (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:135:9800)
+	at MessagePortMain.<anonymous> (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:135:6225)
+	at MessagePortMain.emit (node:events:513:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:367) setContext undefined
+2023-10-25 16:15:27.754 [error] Canceled: Canceled
+	at new h (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:107:57382)
+	at i.O (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:116:10850)
+	at j.<computed>.T.charCodeAt.j.<computed> (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:116:8289)
+	at r.g (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:107:82208)
+	at r.executeCommand (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:107:81646)
+	at u.registerCommand.description (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:107:80967)
+	at r.h (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:107:82744)
+	at r.g (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:107:81739)
+	at r.executeCommand (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:107:81646)
+	at Object.executeCommand (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:122:21247)
+	at set b [as b] (/usr/lib/code/extensions/github/dist/extension.js:2:714434)
+	at /usr/lib/code/extensions/github/dist/extension.js:2:715075
+	at n.value (/usr/lib/code/extensions/git/dist/main.js:2:1396602)
+	at m.w (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:1902)
+	at m.x (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:1972)
+	at m.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:2188)
+	at Object.m [as dispose] (/usr/lib/code/extensions/git/dist/main.js:2:1324784)
+	at /usr/lib/code/extensions/git/dist/main.js:2:1329625
+	at Array.forEach (<anonymous>)
+	at g.dispose (/usr/lib/code/extensions/git/dist/main.js:2:1329611)
+	at E.<anonymous> (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:103:3484)
+	at E.dispose (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:103:3581)
+	at E.<anonymous> (/usr/lib/code/extensions/git/dist/main.js:2:1311012)
+	at E.dispose (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:103:3581)
+	at k (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:13:11730)
+	at n.Z (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:118:9652)
+	at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:118:7585
+	at Array.map (<anonymous>)
+	at n.S (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:118:7572)
+	at n.terminate (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:118:7844)
+	at o.terminate (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:122:1513)
+	at D (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:135:9800)
+	at MessagePortMain.<anonymous> (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:135:6225)
+	at MessagePortMain.emit (node:events:513:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:367) setContext undefined
+2023-10-25 16:15:27.754 [error] Canceled: Canceled
+	at new h (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:107:57382)
+	at i.O (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:116:10850)
+	at j.<computed>.T.charCodeAt.j.<computed> (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:116:8289)
+	at r.g (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:107:82208)
+	at r.executeCommand (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:107:81646)
+	at u.registerCommand.description (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:107:80967)
+	at r.h (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:107:82744)
+	at r.g (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:107:81739)
+	at r.executeCommand (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:107:81646)
+	at Object.executeCommand (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:122:21247)
+	at tf (/home/Luna/.vscode-oss/extensions/rust-lang.rust-analyzer-0.3.1681-linux-x64/out/main.js:39:70677)
+	at Object.W_ (/home/Luna/.vscode-oss/extensions/rust-lang.rust-analyzer-0.3.1681-linux-x64/out/main.js:372:268)
+	at n.Z (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:118:9460)
+	at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:118:7585
+	at Array.map (<anonymous>)
+	at n.S (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:118:7572)
+	at n.terminate (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:118:7844)
+	at o.terminate (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:122:1513)
+	at D (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:135:9800)
+	at MessagePortMain.<anonymous> (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:135:6225)
+	at MessagePortMain.emit (node:events:513:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:367) setContext undefined
+2023-10-25 16:15:27.754 [error] Canceled: Canceled
+	at new h (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:107:57382)
+	at i.O (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:116:10850)
+	at j.<computed>.T.charCodeAt.j.<computed> (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:116:8289)
+	at r.g (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:107:82208)
+	at r.executeCommand (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:107:81646)
+	at u.registerCommand.description (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:107:80967)
+	at r.h (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:107:82744)
+	at r.g (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:107:81739)
+	at r.executeCommand (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:107:81646)
+	at Object.executeCommand (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:122:21247)
+	at tf (/home/Luna/.vscode-oss/extensions/rust-lang.rust-analyzer-0.3.1681-linux-x64/out/main.js:39:70677)
+	at Object.W_ (/home/Luna/.vscode-oss/extensions/rust-lang.rust-analyzer-0.3.1681-linux-x64/out/main.js:372:268)
+	at n.Z (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:118:9460)
+	at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:118:7585
+	at Array.map (<anonymous>)
+	at n.S (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:118:7572)
+	at n.terminate (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:118:7844)
+	at o.terminate (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:122:1513)
+	at D (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:135:9800)
+	at MessagePortMain.<anonymous> (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:135:6225)
+	at MessagePortMain.emit (node:events:513:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:367)
+2023-10-25 16:15:27.775 [info] Extension host with pid 2989 exiting with code 0

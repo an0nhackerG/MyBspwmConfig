@@ -1,0 +1,9 @@
+2023-10-02 06:28:04.533 [info] Deleted uninstalled extension from disk rust-lang.rust-analyzer /home/Luna/.vscode-oss/extensions/rust-lang.rust-analyzer-0.3.1665-linux-x64
+2023-10-02 06:28:04.535 [info] Deleted uninstalled extension from disk s-nlf-fh.glassit /home/Luna/.vscode-oss/extensions/s-nlf-fh.glassit-0.2.3-universal
+2023-10-02 06:28:04.548 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/Luna/.vscode-oss/extensions/rust-lang.rust-analyzer-0.3.1665-linux-x64.65858c14.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/Luna/.vscode-oss/extensions/rust-lang.rust-analyzer-0.3.1665-linux-x64.65858c14.vsctmp'
+    at n.create (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:34:30248)
+    at i (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:34:30364)
+    at t.ab (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:39:35344)
+    at t.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:39:28004)
+    at async w.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:39:15546)
+    at async X.pb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:92:9372)

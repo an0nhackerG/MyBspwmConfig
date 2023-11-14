@@ -1,0 +1,5 @@
+[ERROR rust_analyzer::config] failed to find any projects in [AbsPathBuf("/home/Luna/programing/study/rust")]
+[ERROR rust_analyzer::main_loop] FetchWorkspaceError:
+rust-analyzer failed to discover workspace
+[ERROR rust_analyzer::main_loop] FetchWorkspaceError:
+rust-analyzer failed to discover workspace

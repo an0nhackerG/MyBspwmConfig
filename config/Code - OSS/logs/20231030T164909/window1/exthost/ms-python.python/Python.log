@@ -1,0 +1,45 @@
+2023-10-30 16:50:07.958 [info] Test server listening.
+2023-10-30 16:50:07.961 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-10-30 16:50:08.013 [error] [
+  'Failed to activate a workspace, Class name = g, completed in 83ms, has a falsy return value, Arg 1: <Uri:/home/Luna/programing/work/simulationTool/core/scripts/manager.py>, Return Value: undefined',
+  [Error: Extension 'ms-python.python' CANNOT use API proposal: testObserver.
+  Its package.json#enabledApiProposals-property declares:  but NOT testObserver.
+   The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api ms-python.python
+  	at k (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:105:70089)
+  	at get testResults [as testResults] (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:122:23648)
+  	at w.activate (/home/Luna/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/out/client/extension.js:2:828271)
+  	at /home/Luna/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/out/client/extension.js:2:2386
+  	at Array.map (<anonymous>)
+  	at g.activateWorkspace (/home/Luna/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/out/client/extension.js:2:2376)]
+]
+2023-10-30 16:50:08.013 [error] Failure during activation. [Error: Extension 'ms-python.python' CANNOT use API proposal: testObserver.
+Its package.json#enabledApiProposals-property declares:  but NOT testObserver.
+ The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api ms-python.python
+	at k (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:105:70089)
+	at get testResults [as testResults] (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:122:23648)
+	at w.activate (/home/Luna/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/out/client/extension.js:2:828271)
+	at /home/Luna/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/out/client/extension.js:2:2386
+	at Array.map (<anonymous>)
+	at g.activateWorkspace (/home/Luna/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/out/client/extension.js:2:2376)]
+2023-10-30 16:50:08.013 [error] sendStartupTelemetry() failed. [Error: Extension 'ms-python.python' CANNOT use API proposal: testObserver.
+Its package.json#enabledApiProposals-property declares:  but NOT testObserver.
+ The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api ms-python.python
+	at k (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:105:70089)
+	at get testResults [as testResults] (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:122:23648)
+	at w.activate (/home/Luna/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/out/client/extension.js:2:828271)
+	at /home/Luna/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/out/client/extension.js:2:2386
+	at Array.map (<anonymous>)
+	at g.activateWorkspace (/home/Luna/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/out/client/extension.js:2:2376)]
+2023-10-30 16:50:08.014 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-10-30 16:50:08.014 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-10-30 16:50:08.014 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-10-30 16:50:08.014 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-10-30 16:50:08.014 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-10-30 16:50:08.014 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-10-30 16:50:08.020 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2023-10-30 16:50:08.020 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2023-10-30 16:50:08.020 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2023-10-30 16:50:08.020 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2023-10-30 16:50:08.028 [info] Python interpreter path: /bin/python
+2023-10-30 16:50:08.037 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-10-30 16:50:08.856 [info] Starting Jedi language server for core.

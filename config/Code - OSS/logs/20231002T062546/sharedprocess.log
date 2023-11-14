@@ -1,0 +1,18 @@
+2023-10-02 06:25:53.354 [info] Getting Manifest... rust-lang.rust-analyzer
+2023-10-02 06:25:55.497 [info] Installing extension: rust-lang.rust-analyzer
+2023-10-02 06:26:05.672 [info] Extension signature verification is not done: rust-lang.rust-analyzer
+2023-10-02 06:26:06.909 [info] Extracted extension to file:///home/Luna/.vscode-oss/extensions/rust-lang.rust-analyzer-0.3.1681-linux-x64: rust-lang.rust-analyzer
+2023-10-02 06:26:06.918 [info] Renamed to /home/Luna/.vscode-oss/extensions/rust-lang.rust-analyzer-0.3.1681-linux-x64
+2023-10-02 06:26:06.922 [info] Extracting extension completed. rust-lang.rust-analyzer
+2023-10-02 06:26:06.934 [info] Extension installed successfully: rust-lang.rust-analyzer
+2023-10-02 06:26:06.940 [info] Marked extension as uninstalled rust-lang.rust-analyzer-0.3.1665-linux-x64
+2023-10-02 06:27:30.608 [info] Getting Manifest... s-nlf-fh.glassit
+2023-10-02 06:27:31.147 [info] Installing extension: s-nlf-fh.glassit
+2023-10-02 06:27:32.461 [info] Extension signature verification is not done: s-nlf-fh.glassit
+2023-10-02 06:27:32.707 [info] Extracted extension to file:///home/Luna/.vscode-oss/extensions/s-nlf-fh.glassit-0.2.3-universal: s-nlf-fh.glassit
+2023-10-02 06:27:32.720 [info] Renamed to /home/Luna/.vscode-oss/extensions/s-nlf-fh.glassit-0.2.3-universal
+2023-10-02 06:27:32.723 [info] Extracting extension completed. s-nlf-fh.glassit
+2023-10-02 06:27:32.741 [info] Extension installed successfully: s-nlf-fh.glassit
+2023-10-02 06:27:40.421 [info] Uninstalling extension from the profile: s-nlf-fh.glassit@0.2.3 vscode-userdata:/home/Luna/.vscode-oss/extensions/extensions.json
+2023-10-02 06:27:40.452 [info] Marked extension as uninstalled s-nlf-fh.glassit-0.2.3-universal
+2023-10-02 06:27:40.977 [info] Successfully uninstalled extension from the profile s-nlf-fh.glassit@0.2.3 vscode-userdata:/home/Luna/.vscode-oss/extensions/extensions.json

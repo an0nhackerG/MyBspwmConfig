@@ -1,0 +1,42 @@
+2023-10-02 06:01:28.608 [info] Getting Manifest... ms-python.python
+2023-10-02 06:01:28.790 [info] Installing extension: ms-python.python
+2023-10-02 06:01:39.674 [info] Extension signature verification is not done: ms-python.python
+2023-10-02 06:01:45.171 [info] Extracted extension to file:///home/Luna/.vscode-oss/extensions/ms-python.python-2023.16.0-universal: ms-python.python
+2023-10-02 06:01:45.181 [info] Renamed to /home/Luna/.vscode-oss/extensions/ms-python.python-2023.16.0-universal
+2023-10-02 06:01:45.188 [info] Extracting extension completed. ms-python.python
+2023-10-02 06:01:45.226 [info] Extension installed successfully: ms-python.python
+2023-10-02 06:02:04.614 [info] Getting Manifest... formulahendry.code-runner
+2023-10-02 06:02:04.810 [info] Installing extension: formulahendry.code-runner
+2023-10-02 06:02:06.303 [info] Extension signature verification is not done: formulahendry.code-runner
+2023-10-02 06:02:06.529 [info] Extracted extension to file:///home/Luna/.vscode-oss/extensions/formulahendry.code-runner-0.12.0-universal: formulahendry.code-runner
+2023-10-02 06:02:06.537 [info] Renamed to /home/Luna/.vscode-oss/extensions/formulahendry.code-runner-0.12.0-universal
+2023-10-02 06:02:06.539 [info] Extracting extension completed. formulahendry.code-runner
+2023-10-02 06:02:06.551 [info] Extension installed successfully: formulahendry.code-runner
+2023-10-02 06:02:30.144 [info] Getting Manifest... rust-lang.rust-analyzer
+2023-10-02 06:02:30.317 [info] Installing extension: rust-lang.rust-analyzer
+2023-10-02 06:02:39.598 [info] Extension signature verification is not done: rust-lang.rust-analyzer
+2023-10-02 06:02:40.726 [info] Extracted extension to file:///home/Luna/.vscode-oss/extensions/rust-lang.rust-analyzer-0.3.1665-linux-x64: rust-lang.rust-analyzer
+2023-10-02 06:02:40.747 [info] Renamed to /home/Luna/.vscode-oss/extensions/rust-lang.rust-analyzer-0.3.1665-linux-x64
+2023-10-02 06:02:40.748 [info] Extracting extension completed. rust-lang.rust-analyzer
+2023-10-02 06:02:40.770 [info] Extension installed successfully: rust-lang.rust-analyzer
+2023-10-02 06:03:04.415 [info] Getting Manifest... vscodevim.vim
+2023-10-02 06:03:05.972 [info] Installing extension: vscodevim.vim
+2023-10-02 06:03:07.473 [info] Extension signature verification is not done: vscodevim.vim
+2023-10-02 06:03:07.590 [info] Extracted extension to file:///home/Luna/.vscode-oss/extensions/vscodevim.vim-1.26.0-universal: vscodevim.vim
+2023-10-02 06:03:07.602 [info] Renamed to /home/Luna/.vscode-oss/extensions/vscodevim.vim-1.26.0-universal
+2023-10-02 06:03:07.604 [info] Extracting extension completed. vscodevim.vim
+2023-10-02 06:03:07.615 [info] Extension installed successfully: vscodevim.vim
+2023-10-02 06:05:12.648 [info] Getting Manifest... njpwerner.autodocstring
+2023-10-02 06:05:13.183 [info] Installing extension: njpwerner.autodocstring
+2023-10-02 06:05:14.652 [info] Extension signature verification is not done: njpwerner.autodocstring
+2023-10-02 06:05:14.870 [info] Extracted extension to file:///home/Luna/.vscode-oss/extensions/njpwerner.autodocstring-0.6.1-universal: njpwerner.autodocstring
+2023-10-02 06:05:14.883 [info] Renamed to /home/Luna/.vscode-oss/extensions/njpwerner.autodocstring-0.6.1-universal
+2023-10-02 06:05:14.885 [info] Extracting extension completed. njpwerner.autodocstring
+2023-10-02 06:05:14.899 [info] Extension installed successfully: njpwerner.autodocstring
+2023-10-02 06:07:53.352 [info] Getting Manifest... enkia.tokyo-night
+2023-10-02 06:07:53.535 [info] Installing extension: enkia.tokyo-night
+2023-10-02 06:07:54.931 [info] Extension signature verification is not done: enkia.tokyo-night
+2023-10-02 06:07:54.976 [info] Extracted extension to file:///home/Luna/.vscode-oss/extensions/enkia.tokyo-night-1.0.2-universal: enkia.tokyo-night
+2023-10-02 06:07:54.982 [info] Renamed to /home/Luna/.vscode-oss/extensions/enkia.tokyo-night-1.0.2-universal
+2023-10-02 06:07:54.985 [info] Extracting extension completed. enkia.tokyo-night
+2023-10-02 06:07:54.998 [info] Extension installed successfully: enkia.tokyo-night

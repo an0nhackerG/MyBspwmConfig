@@ -1,0 +1,609 @@
+.line--b5LEQfeVYX button {
+  display: inline-block;
+  vertical-align: top;
+}
+
+.buttonsContainer--TiPIoxROXR {
+  display: -ms-flexbox;
+  display: flex;
+  padding: 2px 0;
+}
+
+.buttons--p98QFrEo3f {
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  -ms-flex-align: center;
+      align-items: center;
+  visibility: hidden;
+}
+
+.has-touch .buttons--p98QFrEo3f,
+.buttons--p98QFrEo3f.visible--aWYlZRshE_ {
+  visibility: visible;
+}
+
+/*
+ * Custom @font-face rules are injected as a style element by
+ * <AppThemeProvider /> and rely on the @dashlane/fonts dependency.
+ */
+:root {
+  /* Font family variables */
+
+  /* Password Specific Styles */
+
+  /* Font size variables */
+
+  /* Font weight variables */
+
+  /* Line heights variables */
+}
+/*
+* Refer to z-index variables & values used in ui-components before updating this file.
+*/
+:root {
+  /* 1. Base z-index, to be used for most content elements that require a z-index. */
+  /* 2. "Below" z-index, to be used when placing an element "below" another within the stacking context. */
+
+  /* 3. Various previous "Content Overlap" z-index values, can be merged with caution. */
+
+  /* 4. Panel z-index. */
+
+  /* 5. "Above Panel" z-index. */
+
+  /*
+  * All variables from here refer to previously hardcoded z-index values.
+  */
+
+  /* Base z-index, see 1, keep sorted to reduce merge conflicts */
+
+  /* "Content Overlap" z-index, see 3. */
+
+  /* Looks unused ? */
+
+  /* Panel z-index, see 4. */
+
+  /* "Above Panel" z-index, see 5. */
+}
+.container--Qypu77vxOn {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-align: baseline;
+      align-items: baseline;
+  height: -moz-fit-content;
+  height: fit-content;
+}
+.containerMultiLine--ncWYFwQEnR {
+  -ms-flex-align: center;
+      align-items: center;
+}
+._field--KII5X4xmLN {
+  width: 240px;
+  color: #000000;
+  -webkit-appearance: none;
+     -moz-appearance: none;
+          appearance: none;
+  background: white;
+  font-size: 16px;
+  line-height: 20px;
+  padding: 10px 16px;
+  border-radius: 4px;
+  margin: 2px 10px 2px 0;
+}
+.input--Iq10hxAz32 {
+  white-space: nowrap;
+  font-family: 'Public Sans', 'Helvetica Neue', Helvetica,
+    Arial, 'Lucida Grande', sans-serif;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  height: 40px;
+}
+.inputRow--gdD_j5S1R8 {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-align: center;
+      align-items: center;
+}
+.textarea--VpIWTZemV2 {
+  -webkit-appearance: textarea;
+  font-family: 'Public Sans', 'Helvetica Neue', Helvetica,
+    Arial, 'Lucida Grande', sans-serif;
+  resize: none;
+  word-wrap: break-word;
+  /* white-space set specifically for IE/Edge */
+  white-space: pre-wrap;
+  overflow-y: auto;
+  min-height: 40px;
+  margin-top: 4px;
+}
+.input--Iq10hxAz32:focus,
+.textarea--VpIWTZemV2:focus,
+.input--Iq10hxAz32:hover,
+.textarea--VpIWTZemV2:hover {
+  outline: none;
+}
+.input--Iq10hxAz32:disabled,
+.input--Iq10hxAz32:-moz-read-only,
+.textarea--VpIWTZemV2:disabled,
+.textarea--VpIWTZemV2:-moz-read-only {
+  color: #cfd7d8;
+  -webkit-text-fill-color: #cfd7d8;
+  opacity: 1;
+  background-color: #f5f7f7;
+}
+.input--Iq10hxAz32:disabled,
+.input--Iq10hxAz32:read-only,
+.textarea--VpIWTZemV2:disabled,
+.textarea--VpIWTZemV2:read-only {
+  color: #cfd7d8;
+  -webkit-text-fill-color: #cfd7d8;
+  opacity: 1;
+  background-color: #f5f7f7;
+}
+.input--Iq10hxAz32:not([disabled]):not([readonly]):not(:focus):hover,
+.textarea--VpIWTZemV2:not([disabled]):not([readonly]):not(:focus):hover {
+  border-color: #d9dfe0;
+  background: #ffffff;
+}
+.input--Iq10hxAz32:not([readonly]):focus,
+.textarea--VpIWTZemV2:not([readonly]):focus {
+  border-color: #3e8391;
+  background: #ffffff;
+}
+/* stylelint-disable selector-no-vendor-prefix */
+.input--Iq10hxAz32:disabled:-ms-input-placeholder,
+.input--Iq10hxAz32:read-only:-ms-input-placeholder,
+.textarea--VpIWTZemV2:disabled:-ms-input-placeholder,
+.textarea--VpIWTZemV2:read-only:-ms-input-placeholder {
+  color: #cfd7d8;
+  -webkit-text-fill-color: #cfd7d8;
+  height: fit-content;
+}
+.input--Iq10hxAz32:disabled::-moz-placeholder,
+.input--Iq10hxAz32:read-only::-moz-placeholder,
+.textarea--VpIWTZemV2:disabled::-moz-placeholder,
+.textarea--VpIWTZemV2:read-only::-moz-placeholder {
+  color: #cfd7d8;
+  -webkit-text-fill-color: #cfd7d8;
+  height: -moz-fit-content;
+  height: fit-content;
+}
+.input--Iq10hxAz32:disabled::placeholder,
+.input--Iq10hxAz32:read-only::placeholder,
+.textarea--VpIWTZemV2:disabled::placeholder,
+.textarea--VpIWTZemV2:read-only::placeholder {
+  color: #cfd7d8;
+  -webkit-text-fill-color: #cfd7d8;
+  height: -moz-fit-content;
+  height: fit-content;
+}
+.label--Ww_r49kt_J {
+  width: 173px;
+  min-width: 173px;
+  text-align: right;
+  font-size: 16px;
+  font-weight: 600;
+  padding-right: 24px;
+  -webkit-user-select: none;
+     -moz-user-select: none;
+      -ms-user-select: none;
+          user-select: none;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  -ms-flex-align: center;
+      align-items: center;
+  -ms-flex-pack: end;
+      justify-content: flex-end;
+  min-height: 44px;
+  height: -moz-fit-content;
+  height: fit-content;
+  line-height: 20px;
+}
+.text--oXyCzpUMwG {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  width: 173px;
+  white-space: nowrap;
+}
+.value--aD7nWEqBIq {
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  -ms-flex-align: center;
+      align-items: center;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  width: 100%;
+  height: 44px;
+  background: none;
+  border: none;
+  color: inherit;
+}
+.multiline--fdPM1KFHPT {
+  height: auto;
+  min-height: 40px;
+  line-height: 20px;
+  white-space: normal;
+  overflow: visible;
+  word-wrap: break-word;
+}
+
+.container--BvfulnQcuP {
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.containerBlock--lIB_8rMAqf {
+  margin-bottom: 32px;
+}
+
+.horizontalContainerBlock--XzyL0HxXte {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-direction: row;
+      flex-direction: row;
+}
+
+.horizontalContainerBlock--XzyL0HxXte input {
+  max-width: 155px;
+}
+
+.secondItem--YxYGi1WTY5 label {
+  min-width: 100px;
+  width: 100px;
+}
+
+/*
+ * Custom @font-face rules are injected as a style element by
+ * <AppThemeProvider /> and rely on the @dashlane/fonts dependency.
+ */
+:root {
+  /* Font family variables */
+
+  /* Password Specific Styles */
+
+  /* Font size variables */
+
+  /* Font weight variables */
+
+  /* Line heights variables */
+}
+/*
+* Refer to z-index variables & values used in ui-components before updating this file.
+*/
+:root {
+  /* 1. Base z-index, to be used for most content elements that require a z-index. */
+  /* 2. "Below" z-index, to be used when placing an element "below" another within the stacking context. */
+
+  /* 3. Various previous "Content Overlap" z-index values, can be merged with caution. */
+
+  /* 4. Panel z-index. */
+
+  /* 5. "Above Panel" z-index. */
+
+  /*
+  * All variables from here refer to previously hardcoded z-index values.
+  */
+
+  /* Base z-index, see 1, keep sorted to reduce merge conflicts */
+
+  /* "Content Overlap" z-index, see 3. */
+
+  /* Looks unused ? */
+
+  /* Panel z-index, see 4. */
+
+  /* "Above Panel" z-index, see 5. */
+}
+.moreOptionsWrapper--tvzORkICsu {
+  /* matches libs/dashlane-style/detail-field/styles.css label width. */
+  margin-left: 173px;
+}
+.spaceWrapper--GTha7H0HoE {
+  margin-left: 8px;
+}
+.selectDisabled--z5aZqygV2R {
+  background-color: #f5f7f7;
+}
+.option--Z52ACaQ4xt {
+  margin-bottom: 20px;
+}
+.optionDetail--YFV8eXJ8No {
+  margin-top: 5px;
+  margin-left: 23px;
+  color: #999592;
+  font-size: 13px;
+  line-height: 20px;
+}
+.subdomainUrl--xuD9NnDYLw {
+  font-style: italic;
+  color: #0e6476;
+}
+.centeredFieldContainer--hqprAHIrBT {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-align: center;
+      align-items: center;
+}
+.passwordButtonsActions--sHufzyFHxV {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-grid-column-align: center;
+      justify-items: center;
+  -ms-flex-align: center;
+      align-items: center;
+  margin-left: 4px;
+}
+.passwordButtonsActions--sHufzyFHxV button {
+  margin-left: 6px;
+  margin-right: 6px;
+}
+.passwordInput--hOFtro6yVO {
+  border: 1px solid #6e868b;
+}
+/* stylelint-disable selector-no-vendor-prefix */
+.passwordInput--hOFtro6yVO::placeholder,
+.passwordInput--hOFtro6yVO::-moz-placeholder {
+  color: #615b57;
+  opacity: 1;
+}
+.linkedWebsitesContainer--xiS0SFSZB2 {
+  margin-left: 173px;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-direction: column;
+      flex-direction: column;
+}
+
+/*
+ * Custom @font-face rules are injected as a style element by
+ * <AppThemeProvider /> and rely on the @dashlane/fonts dependency.
+ */
+:root {
+  /* Font family variables */
+
+  /* Password Specific Styles */
+
+  /* Font size variables */
+
+  /* Font weight variables */
+
+  /* Line heights variables */
+}
+/*
+* Refer to z-index variables & values used in ui-components before updating this file.
+*/
+:root {
+  /* 1. Base z-index, to be used for most content elements that require a z-index. */
+  /* 2. "Below" z-index, to be used when placing an element "below" another within the stacking context. */
+
+  /* 3. Various previous "Content Overlap" z-index values, can be merged with caution. */
+
+  /* 4. Panel z-index. */
+
+  /* 5. "Above Panel" z-index. */
+
+  /*
+  * All variables from here refer to previously hardcoded z-index values.
+  */
+
+  /* Base z-index, see 1, keep sorted to reduce merge conflicts */
+
+  /* "Content Overlap" z-index, see 3. */
+
+  /* Looks unused ? */
+
+  /* Panel z-index, see 4. */
+
+  /* "Above Panel" z-index, see 5. */
+}
+.header--GePOOHOBzn {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-direction: row;
+      flex-direction: row;
+  gap: 24px;
+  margin-right: 12px;
+  margin-bottom: 44px;
+  padding-left: 1px;
+  padding-bottom: 17px;
+  border-bottom: 1px solid #d9dfe0;
+}
+.backButton--ApWZZ3esh6 {
+  background: none;
+  padding-left: 8px;
+  padding-right: 8px;
+}
+.backButton--ApWZZ3esh6:hover {
+  cursor: pointer;
+}
+.listContainer--njknVVuG8n {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-direction: row;
+      flex-direction: row;
+  -ms-flex-align: baseline;
+      align-items: baseline;
+  height: -moz-fit-content;
+  height: fit-content;
+}
+.label--ERiGGqtKHY {
+  width: 173px;
+  height: -moz-fit-content;
+  height: fit-content;
+  min-width: 173px;
+  min-height: 44px;
+  line-height: 20px;
+  padding-right: 24px;
+  text-align: right;
+  color: #000000;
+  font-size: 16px;
+  font-weight: 600;
+  -webkit-user-select: none;
+     -moz-user-select: none;
+      -ms-user-select: none;
+          user-select: none;
+}
+.label--ERiGGqtKHY > svg,
+.label--ERiGGqtKHY > svg:hover {
+  display: inline-block;
+  fill: #615b57;
+}
+.linkedWebsitesList--ZSuJnbXQxS {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-direction: column;
+      flex-direction: column;
+  -ms-flex-align: start;
+      align-items: flex-start;
+  width: -moz-fit-content;
+  width: fit-content;
+  height: -moz-fit-content;
+  height: fit-content;
+  background: none;
+  border: none;
+}
+/* The following styles match those of a typical detail-field */
+.linkedWebsitesRow--WfdNXmrkL4 {
+  white-space: nowrap;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  gap: 10px;
+  -ms-flex-align: center;
+      align-items: center;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  width: 100%;
+  height: 44px;
+  background: none;
+  border: none;
+  margin-right: 5px;
+}
+.linkedWebsitesRow--WfdNXmrkL4:hover button[name='hiddenAction'] {
+  opacity: 1;
+}
+.linkedWebsitesEditableItem--Ns6V467EzV,
+.linkedWebsitesLockedItem--RYRFapL_Jw {
+  width: 240px;
+  margin-right: 18px;
+  padding-left: 18px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.linkedWebsitesEditableItem--Ns6V467EzV {
+  color: #000000;
+}
+.linkedWebsitesLockedItem--RYRFapL_Jw {
+  color: #615b57;
+}
+.addUrlContainer--OJSLm0uPSs {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-direction: column;
+      flex-direction: column;
+  -ms-flex-align: baseline;
+      align-items: baseline;
+}
+.linkedWebsitesDetails--uaFRgv0zeT {
+  white-space: nowrap;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  -ms-flex-align: center;
+      align-items: center;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  width: -moz-fit-content;
+  width: fit-content;
+  height: 44px;
+  gap: 14px;
+  /* matches libs/dashlane-style/detail-field/styles.css label width. */
+  padding-left: 17px;
+  padding-right: 17px;
+  background: none;
+  border: none;
+  color: inherit;
+}
+.linkedWebsitesDetails--uaFRgv0zeT:focus,
+.backButton--ApWZZ3esh6:focus {
+  outline: auto 1px #3e8391;
+}
+.addButton--z1WN5Nny3_ {
+  color: #9faeb1;
+}
+.linkedWebsitesDetails--uaFRgv0zeT:hover:not([disabled]) {
+  color: #0e6476;
+  cursor: pointer;
+}
+/* We need this to overwrite the svg fill of the icon when hovering over its parent*/
+.linkedWebsitesDetails--uaFRgv0zeT:hover:not([disabled]) > svg {
+  fill: #0e6476;
+}
+
+/*
+ * Custom @font-face rules are injected as a style element by
+ * <AppThemeProvider /> and rely on the @dashlane/fonts dependency.
+ */
+:root {
+  /* Font family variables */
+
+  /* Password Specific Styles */
+
+  /* Font size variables */
+
+  /* Font weight variables */
+
+  /* Line heights variables */
+}
+/*
+* Refer to z-index variables & values used in ui-components before updating this file.
+*/
+:root {
+  /* 1. Base z-index, to be used for most content elements that require a z-index. */
+  /* 2. "Below" z-index, to be used when placing an element "below" another within the stacking context. */
+
+  /* 3. Various previous "Content Overlap" z-index values, can be merged with caution. */
+
+  /* 4. Panel z-index. */
+
+  /* 5. "Above Panel" z-index. */
+
+  /*
+  * All variables from here refer to previously hardcoded z-index values.
+  */
+
+  /* Base z-index, see 1, keep sorted to reduce merge conflicts */
+
+  /* "Content Overlap" z-index, see 3. */
+
+  /* Looks unused ? */
+
+  /* Panel z-index, see 4. */
+
+  /* "Above Panel" z-index, see 5. */
+}
+/*
+ * This class is also used in credentials/add.
+ * Should be using <Thumbnail> component w/ lock icon.
+ * In the mean time, this class and dimensions are necessary.
+ */
+.icon--gEZfcCvjSg {
+  width: 147px;
+  height: 98px;
+}
+.dummyIcon--ix6eIwyFEN {
+  box-sizing: content-box;
+  border: 1px solid #3e5d64;
+  border-radius: 4px;
+  background-color: #0e353d;
+  background-image: url(data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNDAiIGhlaWdodD0iNDAiIHZpZXdCb3g9IjAgMCA0MCA0MCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0xMi4xOTk5IDEyLjM1NTZDMTIuMjI5OSAxMS4yMTU2IDEyLjUyOTkgMTAuMDg1NiAxMy4wNDk5IDkuMDc1NjNDMTQuMDc5OSA3LjA0NTYzIDE2LjA3OTkgNS41MjU2MyAxOC4yOTk5IDUuMTI1NjNDMjAuNTI5OSA0LjY5NTYzIDIyLjkyOTkgNS4zNTU2MyAyNC42MTk5IDYuODg1NjNDMjUuNDY5OSA3LjYzNTYzIDI2LjEzOTkgOC41OTU2MyAyNi41Nzk5IDkuNjQ1NjNDMjYuNzk5OSAxMC4xNzU2IDI2Ljk1OTkgMTAuNzI1NiAyNy4wNDk5IDExLjI4NTZDMjcuMDk5OSAxMS41NjU2IDI3LjEyOTkgMTEuODQ1NiAyNy4xNDk5IDEyLjEzNTZDMjcuMTY5OSAxMi40MTU2IDI3LjE2OTkgMTIuNzA1NiAyNy4xNjk5IDEzLjA2NTZWMTQuMzI1NkwzMC4xNjk5IDEzLjIzNTZWMTMuMDg1NkwzMC4xNTk5IDEyLjMzNTZDMzAuMTQ5OSAxMS45NTU2IDMwLjExOTkgMTEuNTc1NiAzMC4wNjk5IDExLjE5NTZDMjkuODY5OSA5LjY4NTYzIDI5LjMzOTkgOC4yMDU2MyAyOC41MTk5IDYuOTE1NjNDMjYuOTA5OSA0LjMxNTYzIDI0LjA5OTkgMi40NzU2MyAyMS4wMzk5IDIuMDk1NjNDMTcuOTk5OSAxLjY2NTYzIDE0Ljc4OTkgMi43MDU2MyAxMi41NTk5IDQuODE1NjNDMTEuNDM5OSA1Ljg2NTYzIDEwLjU0OTkgNy4xNDU2MyA5Ljk3OTkyIDguNTY1NjNDOS4zOTk5MiA5Ljk1NTYzIDkuMTQ5OTIgMTEuNTc1NiA5LjE4OTkyIDEyLjk4NTZWMTQuMzI1NkwxMi4xODk5IDEzLjIzNTZMMTIuMTk5OSAxMi4zNTU2Wk0xOSAzMC40NEwyMiAyOS4zOFYyNEgxN1YyN0gxOVYzMC40NFpNMjcuMjUgMzVMMjguMzQgMzhMNSAzNy45MzU2VjE3SDM0VjM2Ljg3NTZMMzEgMzhWMjBIOFYzNUgyNy4yNVoiIGZpbGw9IndoaXRlIi8+Cjwvc3ZnPgo=);
+  background-repeat: no-repeat;
+  background-position: center;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-align: center;
+      align-items: center;
+  -ms-flex-pack: center;
+      justify-content: center;
+}
+

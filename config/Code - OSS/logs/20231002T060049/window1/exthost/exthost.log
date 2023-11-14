@@ -1,0 +1,14 @@
+2023-10-02 06:00:51.300 [info] Extension host with pid 2052 started
+2023-10-02 06:00:51.300 [info] Skipping acquiring lock for /home/Luna/.config/Code - OSS/User/workspaceStorage/e3f406d0c8389435070494721a09a8f8.
+2023-10-02 06:00:51.408 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-10-02 06:00:51.424 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-10-02 06:00:51.437 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-10-02 06:00:51.473 [info] Eager extensions activated
+2023-10-02 06:00:51.540 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-10-02 06:00:51.543 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-10-02 06:00:53.754 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-10-02 06:02:06.680 [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onStartupFinished'
+2023-10-02 06:03:07.714 [info] ExtensionService#_doActivateExtension vscodevim.vim, startup: false, activationEvent: '*'
+2023-10-02 06:03:08.831 [error] Error: ENOENT: no such file or directory, open '/home/Luna/.config/Code - OSS/User/globalStorage/vscodevim.vim/.registers'
+2023-10-02 06:07:57.509 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-10-02 06:07:57.560 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'

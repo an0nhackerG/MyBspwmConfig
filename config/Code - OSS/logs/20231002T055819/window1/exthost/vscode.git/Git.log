@@ -1,0 +1,65 @@
+2023-10-02 05:58:29.567 [info] Log level: Info
+2023-10-02 05:58:29.567 [info] Validating found git in: "git"
+2023-10-02 05:58:29.567 [info] Using git "2.42.0" from "git"
+2023-10-02 05:58:29.567 [info] > git rev-parse --show-toplevel [2ms]
+2023-10-02 05:58:29.567 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-02 05:58:29.573 [info] > git rev-parse --show-toplevel [2ms]
+2023-10-02 05:58:29.574 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-02 05:58:29.580 [info] > git rev-parse --show-toplevel [2ms]
+2023-10-02 05:58:29.580 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-02 05:58:29.587 [info] > git rev-parse --show-toplevel [3ms]
+2023-10-02 05:58:29.587 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-02 05:58:29.591 [info] > git rev-parse --show-toplevel [1ms]
+2023-10-02 05:58:29.591 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-02 05:58:29.596 [info] > git rev-parse --show-toplevel [1ms]
+2023-10-02 05:58:29.597 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-02 05:58:29.601 [info] > git rev-parse --show-toplevel [1ms]
+2023-10-02 05:58:29.601 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-02 05:58:29.606 [info] > git rev-parse --show-toplevel [2ms]
+2023-10-02 05:58:29.611 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2023-10-02 05:58:29.623 [info] Open repository: /home/Luna/.oh-my-zsh
+2023-10-02 05:58:29.639 [info] > git rev-parse --show-toplevel [3ms]
+2023-10-02 05:58:29.639 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-02 05:58:29.639 [info] > git config --get commit.template [7ms]
+2023-10-02 05:58:29.648 [info] > git rev-parse --show-toplevel [5ms]
+2023-10-02 05:58:29.648 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-02 05:58:29.655 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [9ms]
+2023-10-02 05:58:29.660 [info] > git rev-parse --show-toplevel [6ms]
+2023-10-02 05:58:29.660 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-02 05:58:29.667 [info] > git rev-parse --show-toplevel [3ms]
+2023-10-02 05:58:29.667 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-02 05:58:29.672 [info] > git rev-parse --show-toplevel [1ms]
+2023-10-02 05:58:29.672 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-02 05:58:29.676 [info] > git rev-parse --show-toplevel [2ms]
+2023-10-02 05:58:29.676 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-02 05:58:29.680 [info] > git rev-parse --show-toplevel [2ms]
+2023-10-02 05:58:29.680 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-02 05:58:29.687 [info] > git rev-parse --show-toplevel [5ms]
+2023-10-02 05:58:29.687 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-02 05:58:29.692 [info] > git rev-parse --show-toplevel [2ms]
+2023-10-02 05:58:29.696 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2023-10-02 05:58:29.699 [info] Open repository: /home/Luna/rofi-collection
+2023-10-02 05:58:29.707 [info] > git config --get commit.template [4ms]
+2023-10-02 05:58:29.710 [info] > git rev-parse --show-toplevel [4ms]
+2023-10-02 05:58:29.710 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-02 05:58:29.729 [info] > git rev-parse --show-toplevel [11ms]
+2023-10-02 05:58:29.730 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [15ms]
+2023-10-02 05:58:29.797 [info] > git rev-parse --git-dir --git-common-dir [19ms]
+2023-10-02 05:58:29.818 [info] Open repository: /home/Luna/yay
+2023-10-02 05:58:29.885 [info] > git config --get commit.template [8ms]
+2023-10-02 05:58:29.975 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [57ms]
+2023-10-02 05:58:30.010 [info] > git status -z -uall [254ms]
+2023-10-02 05:58:30.028 [info] > git status -z -uall [27ms]
+2023-10-02 05:58:30.037 [info] > git config --get commit.template [10ms]
+2023-10-02 05:58:30.048 [info] > git config --get commit.template [11ms]
+2023-10-02 05:58:30.134 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [15ms]
+2023-10-02 05:58:30.170 [info] > git status -z -uall [19ms]
+2023-10-02 05:58:30.174 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [41ms]
+2023-10-02 05:58:30.181 [info] > git status -z -uall [522ms]
+2023-10-02 05:58:30.190 [info] > git status -z -uall [10ms]
+2023-10-02 05:58:30.196 [info] > git config --get commit.template [6ms]
+2023-10-02 05:58:30.208 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-10-02 05:58:30.233 [info] > git status -z -uall [19ms]
+2023-10-02 05:58:30.546 [info] > git check-ignore -v -z --stdin [6ms]
+2023-10-02 05:58:30.547 [info] > git check-ignore -v -z --stdin [4ms]
+2023-10-02 05:58:30.547 [info] > git check-ignore -v -z --stdin [2ms]

@@ -1,0 +1,161 @@
+/* GT Walsheim Pro */
+
+@font-face {
+  font-family: "GT Walsheim Pro";
+  font-weight: 200;
+  font-style: normal;
+  font-stretch: normal;
+  src: local("GT Walsheim Pro Light"), local("GTWalsheimPro-Light"),
+    url("../legacy-fonts/GT-Walsheim-Pro-Light.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "GT Walsheim Pro";
+  font-weight: 400;
+  font-style: normal;
+  font-stretch: normal;
+  src: local("GT Walsheim Pro Regular"), local("GTWalsheimPro-Regular"),
+    url("../legacy-fonts/GT-Walsheim-Pro-Regular.woff2")
+      format("woff2");
+}
+
+@font-face {
+  font-family: "GT Walsheim Pro";
+  font-weight: 500;
+  font-style: normal;
+  font-stretch: normal;
+  src: local("GT Walsheim Pro Medium"), local("GTWalsheimPro-Medium"),
+    url("../legacy-fonts/GT-Walsheim-Pro-Medium.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "GT Walsheim Pro";
+  font-weight: 800;
+  font-style: normal;
+  font-stretch: normal;
+  src: local("GT Walsheim Pro Bold"), local("GTWalsheimPro-Bold"),
+    url("../legacy-fonts/GT-Walsheim-Pro-Bold.woff2") format("woff2");
+}
+
+/* Public Sans */
+
+@font-face {
+  font-family: "Public Sans";
+  font-weight: 200;
+  font-style: normal;
+  font-stretch: normal;
+  src: local("Public Sans Light"), local("PublicSans-Light"),
+    url("../legacy-fonts/PublicSans-Light.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "Public Sans";
+  font-weight: 400;
+  font-style: normal;
+  font-stretch: normal;
+  src: local("Public Sans Regular"), local("PublicSans-Regular"),
+    url("../legacy-fonts/PublicSans-Regular.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "Public Sans";
+  font-weight: 500;
+  font-style: normal;
+  font-stretch: normal;
+  src: local("Public Sans Medium"), local("PublicSans-Medium"),
+    url("../legacy-fonts/PublicSans-Medium.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "Public Sans";
+  font-weight: 600;
+  font-style: normal;
+  font-stretch: normal;
+  src: local("Public Sans SemiBold"), local("PublicSans-SemiBold"),
+    url("../legacy-fonts/PublicSans-SemiBold.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "Public Sans";
+  font-weight: 800;
+  font-style: normal;
+  font-stretch: normal;
+  src: local("Public Sans Bold"), local("PublicSans-Bold"),
+    url("../legacy-fonts/PublicSans-Bold.woff2") format("woff2");
+}
+
+/* Space Mono */
+
+@font-face {
+  font-family: "Space Mono";
+  font-weight: 400;
+  font-style: normal;
+  font-stretch: normal;
+  src: local("Space Mono Regular"), local("SpaceMono-Regular"),
+    url("../legacy-fonts/SpaceMono-Regular.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "Space Mono";
+  font-weight: 800;
+  font-style: normal;
+  font-stretch: normal;
+  src: local("Space Mono Bold"), local("SpaceMono-Bold"),
+    url("../legacy-fonts/SpaceMono-Bold.woff2") format("woff2");
+}
+
+/* Apercu Mono Pro */
+@font-face {
+  font-family: "Apercu Mono Pro";
+  font-weight: 400;
+  font-style: normal;
+  font-stretch: normal;
+  src: local("Apercu Mono Pro Regular"), local("ApercuMonoPro-Regular"),
+    url("../legacy-fonts/apercu-mono-regular-pro.otf")
+      format("opentype");
+}
+@font-face {
+    font-family: "Public Sans";
+    font-weight: 400;
+    font-style: normal;
+    font-stretch: normal;
+    src: local("PublicSans-Regular"),
+      url("./PublicSans-Regular.woff2") format("woff2");
+  }
+  
+@font-face {
+    font-family: "Apercu Mono Pro";
+    font-weight: 400;
+    font-style: normal;
+    font-stretch: normal;
+    src: local("ApercuMonoPro-Regular"),
+      url("./ApercuMonoPro-Regular.woff2") format("woff2");
+  }
+  
+@font-face {
+    font-family: "Public Sans";
+    font-weight: 600;
+    font-style: normal;
+    font-stretch: normal;
+    src: local("PublicSans-SemiBold"),
+      url("./PublicSans-SemiBold.woff2") format("woff2");
+  }
+  
+@font-face {
+    font-family: "Public Sans";
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+    src: local("PublicSans-Medium"),
+      url("./PublicSans-Medium.woff2") format("woff2");
+  }
+  
+@font-face {
+    font-family: "GT Walsheim Pro";
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+    src: local("GTWalsheimPro-Medium"),
+      url("./GTWalsheimPro-Medium.woff2") format("woff2");
+  }
+  
